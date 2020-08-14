@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name" translatable="false">Speak English Fluently</string>
+    <string name="start">Start</string>
+    <string name="hold_the_button_and_start_reading_the_text_above">Hold the button and start reading the text above</string>
+    <string name="next">Next</string>
+    <string name="try_again">Try Again</string>
+    <string name="congrats">Congrats, you have finished the sentences :)</string>
+    <string name="listening">Listening…</string>
+    <string name="reset">Reset</string>
+    <string name="correct">Correct</string>
+    <string name="wrong">Wrong</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="support">Support</string>
+
+    <string-array name="articles">
+        <item>thanks so much for driving me home</item>
+        <item>I really appreciate your help</item>
+        <item>excuse me, do you know what time it is?</item>
+        <item>I\'m sorry, could you please talk slower?</item>
+        <item>what do you do?</item>
+        <item>nice to meet you</item>
+        <item>what do you mean?</item>
+        <item>where are you from?</item>
+        <item>I\'m sorry for being so late</item>
+        <item>if  there is one thing that  annoys me,  it\'s people who don\'t keep their promises</item>
+        <item>excuse me, do you know where the library is?</item>
+        <item>I\'m really sorry I didn\'t invite you to the party</item>
+        <item>how can I help you?</item>
+        <item>I\'m not sure if we should paint the room yellow or blue, what do you think?</item>
+        <item>we could have dinner at 6, and then go to a movie, how does that sound?</item>
+        <item>that sounds fantastic</item>
+        <item>nevermind, it\'s okay, I\'ll go tomorrow</item>
+        <item>so Sam is coming in tonight at 8, right?</item>
+        <item>sorry, I don\'t understand</item>
+        <item>I have no idea what time it is</item>
+        <item>you have done enough</item>
+        <item>thank you, that helps a lot</item>
+        <item>how do you spell that?</item>
+        <item>I\'ll be with you in a moment</item>
+        <item>what time is our meeting?</item>
+        <item>actually, I thought he wasn\'t working at all this week</item>
+        <item>I\'m about to go and pick up some coffee</item>
+        <item>are you sure about that?</item>
+        <item>I\'ll be back as soon as possible</item>
+        <item>as far as I can remember, he didn\'t come home until midnight</item>
+        <item>have you ever heard of it?</item>
+        <item>I like you, but this doesn\'t mean that I\'ll marry you</item>
+        <item>by the way, is there a bathroom in the apartment?</item>
+        <item>don\'t ever miss a good opportunity</item>
+        <item>would you mind if I smoke here?</item>
+        <item>do you feel like having some coffee?</item>
+        <item>do you have any tickets available?</item>
+        <item>shouldn\'t we ask for permission first?</item>
+        <item>have you ever been to New York?</item>
+        <item>how about minding your own business?</item>
+        <item>don\'t tell him the bad news until he finishes his exam</item>
+        <item>I won\'t stop shouting until you let me go</item>
+        <item>it\'s so hot that none of us want to go out</item>
+        <item>either you are wrong or I am</item>
+        <item>I\'m not only going to the party, I\'m also going to sing at it</item>
+        <item>I was so interested in the film that I went to see it several times</item>
+        <item>help yourself to some steak, I made it especially for you</item>
+        <item>yeah, it\'s really hot, isn\'t it?</item>
+        <item>how dare he do that to me</item>
+        <item>how dare you speak to me like that</item>
+        <item>how long does it take to get to the station by subway?</item>
+        <item>actually it was pretty easy</item>
+        <item>how come your little sister is so angry?</item>
+        <item>I can\'t help laughing every time I think of that</item>
+        <item>I can\'t wait to see my family</item>
+        <item>how do you like your new apartment?</item>
+        <item>I\'d like you to do me a favor</item>
+        <item>how long did it take you to finish the assignment?</item>
+        <item>how often do you write to your parents?</item>
+        <item>I had no idea that she was a thief</item>
+        <item>I can hardly believe what I have seen</item>
+        <item>I\'ve got to go</item>
+        <item>I can\'t say for certain</item>
+        <item>run as fast as you can</item>
+        <item>I\'ll let you know if I get bored</item>
+        <item>I\'d be grateful for your help</item>
+        <item>I\'m afraid I\'ve made a terrible mistake</item>
+        <item>I\'m calling to say goodbye to you</item>
+        <item>I\'m really looking forward to the holidays</item>
+        <item>I\'m looking forward to working with you</item>
+        <item>I\'m not really happy with their service</item>
+        <item>we may as well take the risk</item>
+        <item>I\'m thinking about moving to a new house</item>
+        <item>I\'m thinking about getting a divorce</item>
+        <item>what can I do for you?</item>
+        <item>be careful not to spill the milk</item>
+        <item>what can I do to stop them?</item>
+        <item>it was Jack who broke the window when we were playing football</item>
+        <item>it is Jane that I want to marry</item>
+        <item>what do you mean by canceling your performance?</item>
+        <item>it\'s too bad that you can\'t come</item>
+        <item>it\'s my fault we missed the bus</item>
+        <item>what do you say about going to the cinema this afternoon?</item>
+        <item>it\'s not that I don\'t like the car, but I think it is too expensive</item>
+        <item>his address is on the tip of my tongue, wait a minute</item>
+        <item>what do you need so much money for?</item>
+        <item>it is said that he is quite a handsome young man</item>
+        <item>what if they are against us?</item>
+        <item>it\'s up to you</item>
+        <item>it may surprise you, but I paid off all the debts in a year</item>
+        <item>I have been living here for 30 years</item>
+        <item>where have you been?</item>
+        <item>I\'ve had enough of the traffic here</item>
+        <item>no matter what he says, don\'t believe him</item>
+        <item>what\'s wrong with your car?</item>
+        <item>what would you do if you were me?</item>
+        <item>who is your favorite film star?</item>
+        <item>what is your favorite subject?</item>
+        <item>where can I get a map?</item>
+        <item>where can I find him?</item>
+        <item>whether or not we like it, we have to accept it</item>
+        <item>why don\'t you go ask the teacher?</item>
+        <item>would you care for something to drink?</item>
+        <item>would you like to try yourself?</item>
+        <item>now that I come to think about it, you\'re right to dismiss him</item>
+        <item>you are not to waste your time doing nothing</item>
+        <item>I only have to consult the digital dictionary in order to find out the meaning of a word I don\'t know</item>
+        <item>what I\'m trying to say is that he is a good husband</item>
+        <item>what\'s the matter with him?</item>
+        <item>what does font mean?</item>
+        <item>could you repeat that please?</item>
+        <item>I can\'t wait to hear from you</item>
+        <item>make yourself at home</item>
+        <item>maybe you\'re exaggerating a little bit</item>
+        <item>do you agree with my plan?</item>
+        <item>I bet he is home now</item>
+        <item>it\'s either your fault or her fault</item>
+        <item>without your financial support, we could not have finished the project</item>
+    </string-array>
+	
+</resources>
